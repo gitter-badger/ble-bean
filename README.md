@@ -1,4 +1,6 @@
 #BLE-Bean
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jacobrosenthal/ble-bean?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Non Official api for the [LightBlue Bean]( http://punchthrough.com/bean/)
 
 I recommend you familiarize yourself with the Bean first, but the gist is it has a BLE transceiver and an Arduino onboard. You can program regular Arduino sketches on the Arduino, but the BLE transceiver is available no matter what sketch you have on the bean.
